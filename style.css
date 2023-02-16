@@ -1,0 +1,243 @@
+@media screen and (max-width: 281px) {
+    #Error404-gif {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #Flex-Gif img {
+        display: none;
+    }
+    #Flex-Image {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 885px) {
+    #Top-Information {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 886px) {
+    #Top-Information-Nav {
+        display: none;
+    }
+}
+
+#Top-Information {
+    top: 0;
+    position: sticky;
+    background-color: #34495e;
+}
+
+#Top-Information-Nav {
+    top: 0;
+    position: sticky;
+    background-color: #34495e;
+}
+
+#Home-Button {
+    color: #e74c3c;
+    padding-left: 5%;
+}
+
+#Nav-Button {
+    margin-right: 2.5%;
+    border-color: #e74c3c;
+}
+
+#nav-link {
+    margin-left: 2.5%;
+    color: white;
+}
+
+#Intro {
+    background-color: white;
+}
+
+#Nav-Home {
+    padding-left: 2.5%;
+    color: #e74c3c;
+}
+
+#Nav-Icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(236,240,241,255)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+#Introduction {
+    padding: 5%;
+    background-color: white;
+    color: black;
+}
+
+#Introduction :nth-child(3) {
+    margin-top: 7.5%;
+    margin-bottom: 7.5%;
+}
+
+#Introduction p {}
+
+#Git-Button {
+    height: 3rem;
+    text-align: center;
+    align-items: center;
+    background-color: #34495e;
+    border-color: #34495e;
+    border-radius: 20px;
+}
+
+.btn {
+    padding: 0;
+}
+
+#Flex-Gif {
+    display: flex;
+    width: 120%;
+}
+
+#Course-Header {
+    color: #34495e;
+}
+
+#IF-Header {
+    color: #34495e;
+}
+
+#Info {
+    color: #e74c3c;
+}
+
+#Flex-Gif img {
+    width: 100%;
+}
+
+#Local-Age img {
+    width: calc(1.275rem + .3vw);
+}
+
+#LA-Info {
+    margin-bottom: 7.5%;
+    gap: 10%;
+}
+
+#AM-Header {
+    margin-bottom: 10%;
+    color: #e74c3c;
+}
+
+#Edu-Header {
+    color: black;
+}
+
+#PE-Header {
+    color: #e74c3c;
+}
+
+#Local-Text {}
+
+#Flex-Image img {
+    width: 70%;
+}
+
+#Flex-Image {
+    width: 100%;
+}
+
+#All-About {
+    padding: 0;
+    background-color: #34495e;
+    color: white;
+}
+
+#About-Me {
+    width: 100%;
+    padding: 5%;
+}
+
+#Contact-Header {
+    color: #e74c3c;
+}
+
+#About-Text {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#LT {
+    align-items: center;
+}
+
+#IF-Img {
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-top: 0.5%;
+}
+
+#Education {
+    padding: 5%;
+    background-color: #b3c8dd;
+}
+
+#Education-Info {
+    gap: 1%;
+}
+
+#IF {
+    gap: 1%;
+}
+
+#Experience {
+    padding: 5%;
+    background-color: white;
+}
+
+#Contact-Me {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2.5%;
+    background-color: #34495e;
+    color: white;
+}
+
+#Contact-Images {
+    width: 2rem;
+}
+
+#LinkedIn-Button {
+    align-items: center;
+    height: 3rem;
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+    border-radius: 20px;
+}
+
+#Made-By {
+    margin-top: 2%;
+}
+
+#PE-Text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#Contact {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#Contact-p {
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+strong {
+    color: #e74c3c;
+}
